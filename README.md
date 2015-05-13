@@ -1,2 +1,2 @@
-# CS6535_PL
+# CS6353_PL
 courses project
