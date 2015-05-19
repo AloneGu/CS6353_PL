@@ -1,1 +1,1 @@
-Very bad program, only passed 26 test cases.
+Very bad program, only passed 26 of 50 test cases.
